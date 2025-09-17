@@ -1,0 +1,18 @@
+# Real-Time Temperature Logger Requirements
+# This project uses only Python standard library modules
+
+# No external dependencies required
+# The following are standard library modules used:
+# - collections (for deque)
+# - time (for performance testing)
+# - random (for test data generation)
+
+# Optional development dependencies for enhanced testing:
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=23.0.0
+# flake8>=6.0.0
+
+# For production monitoring (optional):
+# psutil>=5.9.0  # For memory usage monitoring
+# matplotlib>=3.6.0  # For visualization of temperature data
